@@ -1,0 +1,17 @@
+{
+    "name": "leonardozaneladias/gitauto",
+    "authors": [
+        {
+            "name": "leozanela",
+            "email": "leonardozaneladias@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    }
+}
